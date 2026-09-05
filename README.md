@@ -37,7 +37,7 @@ Nexatel (a telecom brand used for this project) loses about **1 in 4 customers**
 2. **Get electronic-check customers onto automatic payment.** This payment method has the highest churn of all. A small incentive to switch to auto-pay could help.
 3. **Protect high-value customers who don't have a partner or dependents.** They bring in the most revenue and are more likely to leave than customers with family ties.
 
-![Recommendations dashboard](screenshots/recommendations_dashboard.png)
+![Recommendations dashboard](screenshots/recommendatios_dashboard.png)
 
 ## Files in this project
 
