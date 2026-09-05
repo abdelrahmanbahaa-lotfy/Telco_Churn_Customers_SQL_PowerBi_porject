@@ -2,7 +2,7 @@
 
 A SQL Server + Power BI project that finds out why customers leave and which ones to focus on saving.
 
-![Overview dashboard](images/overview_dashboard.png)
+![Overview dashboard](screenshots/overview_dashboard.png)
 
 ## The problem
 
@@ -29,7 +29,7 @@ Nexatel (a telecom brand used for this project) loses about **1 in 4 customers**
 - Most of the lost revenue (**$113K of $139K**) comes from high-value customers
 - New customers (first 6 months) churn the most — over 50%
 
-![Deep dive dashboard](images/deep_dive_dashboard.png)
+![Deep dive dashboard](screenshots/deep_dive_dashboard.png)
 
 ## Recommendations
 
@@ -37,7 +37,7 @@ Nexatel (a telecom brand used for this project) loses about **1 in 4 customers**
 2. **Get electronic-check customers onto automatic payment.** This payment method has the highest churn of all. A small incentive to switch to auto-pay could help.
 3. **Protect high-value customers who don't have a partner or dependents.** They bring in the most revenue and are more likely to leave than customers with family ties.
 
-![Recommendations dashboard](images/recommendations_dashboard.png)
+![Recommendations dashboard](screenshots/recommendations_dashboard.png)
 
 ## Files in this project
 
